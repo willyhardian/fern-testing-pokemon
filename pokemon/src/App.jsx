@@ -9,6 +9,11 @@ function App() {
             <h1>Pokemon</h1>
             <p>Know your favorite pokemon</p>
             <div>
+                <h2>Search Pokemon</h2>
+                <input type="text" />
+                <button>search</button>
+            </div>
+            <div>
                 <h2>Pokemon List</h2>
                 <p>Pikachu</p>
                 <p>Bulbasur</p>
