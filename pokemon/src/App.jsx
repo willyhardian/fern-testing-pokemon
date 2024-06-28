@@ -7,6 +7,7 @@ function App() {
     return (
         <>
             <h1>Pokemon</h1>
+            <p>Know your favorite pokemon</p>
             <div>
                 <h2>Pokemon List</h2>
                 <p>Pikachu</p>
